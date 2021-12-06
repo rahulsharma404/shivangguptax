@@ -6,6 +6,9 @@ Hi, I'm Shivang Gupta, a Competitive Programmer and a Full Stack Web Developer f
 [![Linkedin Badge](https://img.shields.io/badge/-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shivang-gupta-141470219/)](https://www.linkedin.com/in/shivang-gupta-141470219/)
 [![Gmail Badge](https://img.shields.io/badge/-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shivangguptaxd@gmail.com)](mailto:shivangguptaxd@gmail.com)
 <br />
+[![Instagram Badge](https://img.shields.io/badge/-blue?style=social&logo=Instagram&logoColor=#fb3958&link=https://www.instagram.com/shivangguptax/)](https://www.instagram.com/shivangguptax/)
+
+[![Twitter Badge](http://img.shields.io/badge/-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/shiventure)](https://twitter.com/shiventure) 
 ![](https://visitor-badge.glitch.me/badge?page_id=.shivangguptax.shivangguptax)  <br> 
 
 
